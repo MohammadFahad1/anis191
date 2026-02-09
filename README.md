@@ -1,61 +1,69 @@
-<h1 align="center">Hi, I'm Anisul Alam</h1>
+<h1 align="center">Hi, I'm Anisul Alam 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer;Django+%7C+React+%7C+DRF+%7C+PostgreSQL;Open-Source+Enthusiast;Problem+Solver;Always+learning+new+tech!">
+  <img src="https://readme-typing-svg.herokuapp.com!">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app" alt="anis191" />
 </p>
 
 ---
 
-##  **About Me**  
--  Currently working on **[Nova Studio Server](https://github.com/anis191/nova-studio-server)**  
--  Learning **Advanced Backend Technologies, Redis, Celery & AI/ML** 
--  Passionate about **Web Development, API Design, ML-driven applications**  
--  Goal: Become a **Software Engineer**  
+### 🚀 Quick Glance
+- 🔭 Currently working on **[Nova Studio Server](https://github.com/anis191/nova-studio-server)**  
+- 📚 Learning **Advanced Backend (Redis, Celery) & AI/ML** 
+- ⚡ Passionate about **Scalable Web Systems & API Design**
+- 🎯 Goal: **Software Engineer**
 
 ---
 
-##  **Tech Stack & Tools**  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+### 🛠️ Tech Stack & Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io) ![Django](https://img.shields.io) ![DRF](https://img.shields.io) ![Laravel](https://img.shields.io) |
+| **Frontend** | ![React](https://img.shields.io) ![JS](https://img.shields.io) ![Tailwind](https://img.shields.io) |
+| **Databases** | ![PostgreSQL](https://img.shields.io) ![MySQL](https://img.shields.io) ![Redis](https://img.shields.io) |
+| **DevOps** | ![Git](https://img.shields.io) ![Docker](https://img.shields.io) ![Vercel](https://img.shields.io) |
 
 ---
 
-##  **Latest Projects**
--  **[VaxPlus](https://vaxplus-frontend.vercel.app/)** - Vaccine Management System  
--  **[PhiMart](https://phimart-frontend.vercel.app/)** - Scalable eCommerce Platform  
--  **[EventZone](https://event-zone.vercel.app/)** - Full-featured Event Management System  
--  **[DockerHero](https://docker-hero.vercel.app/)** - Interactive React Application  
+### 📂 Featured Projects
+- 💉 **[VaxPlus](https://vaxplus-frontend.vercel.app/)** - Vaccine Management System  
+- 🛒 **[PhiMart](https://phimart-frontend.vercel.app/)** - Scalable eCommerce Platform  
+- 📅 **[EventZone](https://event-zone.vercel.app/)** - Full-featured Event Management System  
+- 🦸 **[DockerHero](https://docker-hero.vercel.app/)** - Interactive React Learning App
 
 ---
 
-## GitHub Stats  
+### 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anis191&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anis191&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-##  **Connect With Me**
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisulalam/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/anisulalam_bd)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anisulalam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://anisulalam.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-FF0000?style=flat&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1TaC6QFJZdkG3a03e1KjGMLNECfBhjIB4/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anisulalam2002@gmail.com)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com" alt="anis191" />
 </p>
 
 ---
 
-`"While( !succeed ) try_again();"`
+### 🤝 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/anisulalam/"><img src="https://img.shields.io" /></a>
+<a href="https://anisulalam.vercel.app/"><img src="https://img.shields.io" /></a>
+<a href="mailto:anisulalam2002@gmail.com"><img src="https://img.shields.io" /></a>
+<a href="https://drive.google.com/file/d/1TaC6QFJZdkG3a03e1KjGMLNECfBhjIB4/view?usp=sharing"><img src="https://img.shields.io" /></a>
+</p>
+
+<p align="center">
+<a href="https://twitter.com/anisulalam_bd"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/anisulalam"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app" alt="Quote" />
+</p>
